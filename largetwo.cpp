@@ -58,5 +58,6 @@ int main()
 	cout << "The list of numbers consists of: ";
 	vector_print(a);
 	twoLarge(a);		//calling function to get largest 2
+	cout<<"Bla bla bla"<<endl;
 	return 0;
 }
