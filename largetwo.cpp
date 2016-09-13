@@ -50,14 +50,5 @@ void twoLarge(vector<double> v)
 
 int main()
 {
-	int n;
-	vector<double> a;
-	cout << "Please enter how many values would you like to enter?: ";
-	cin >> n;			// number of values in list n
-	a = vector_get(n);  // making list of n integers
-	cout << "The list of numbers consists of: ";
-	vector_print(a);
-	twoLarge(a);		//calling function to get largest 2
-	cout<<"Bla bla bla"<<endl;
-	return 0;
+
 }
