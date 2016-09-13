@@ -48,7 +48,6 @@ void twoLarge(vector<double> v)
 	cout << "The two largest numbers are :   " << L1 << "  and , " << L2 << endl;
 }
 
-int main()
-{
+int 
 
 }
